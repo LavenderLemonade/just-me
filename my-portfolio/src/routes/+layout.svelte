@@ -10,8 +10,6 @@
     function goTop() {
         document.body.scrollIntoView();
     }
-
-    export const prerender = true;
 </script>
 
 <div
