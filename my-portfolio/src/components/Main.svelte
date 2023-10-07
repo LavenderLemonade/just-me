@@ -1,5 +1,6 @@
 <script>
     import Step from "./Step.svelte";
+    import myPic from "../me.jpg";
 
     let steps = [
         {
@@ -71,7 +72,7 @@
         <div class="relative shadow-2xl grid place-items-center">
             <!-- svelte-ignore a11y-img-redundant-alt -->
             <img
-                src={"src/me.jpg"}
+                src={myPic}
                 alt="profile image"
                 class="object-cover z-[2] max-h-[70vh"
             />
