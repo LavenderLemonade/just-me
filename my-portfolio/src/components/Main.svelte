@@ -71,7 +71,7 @@
         <div class="relative shadow-2xl grid place-items-center">
             <!-- svelte-ignore a11y-img-redundant-alt -->
             <img
-                src={"my-portfolio/static/assets/me.jpg"}
+                src={"src/me.jpg"}
                 alt="profile image"
                 class="object-cover z-[2] max-h-[70vh"
             />
