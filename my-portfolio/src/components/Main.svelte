@@ -54,8 +54,10 @@
                 <span class="poppins text-orange-400"> Developer!</span>
             </h2>
             <p class="text-base sm:text-lg mg:text-xl">
-                My <span class="text-orange-400"> favorite languages </span> include
-                JavaScript
+                My <span class="text-orange-400"> favorite languages </span>
+                include JavaScript, C#, SQL, and Python, as well as
+                <span class="text-orange-400"> frameworks </span>like React,
+                Vue, and Svelte!
             </p>
 
             <a
