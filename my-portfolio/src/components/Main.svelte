@@ -1,6 +1,6 @@
 <script>
     import Step from "./Step.svelte";
-    import myPic from "../me.jpg";
+    import myPic from "../justme.png";
 
     let steps = [
         {
