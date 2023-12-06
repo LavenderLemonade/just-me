@@ -49,7 +49,7 @@
                 target="_blank"
                 href="https://docs.google.com/document/d/19GLg4eIrs2CGFSofn4US5JpFnDWVZ4-8DhHGUnI4E7I/edit?usp=sharing"
             >
-                Samuel Elliott<sup
+                My Resume!<sup
                     ><span class="text-xs scale-75 pl-0.5">
                         <i
                             class="fa-solid fa-arrow-up-right-from-square
