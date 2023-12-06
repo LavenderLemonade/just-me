@@ -41,5 +41,23 @@
                 >
             </a>
         </p>
+
+        <p>
+            <b class="pr-2">Resume</b>
+            <a
+                class="text-orange-400"
+                target="_blank"
+                href="https://docs.google.com/document/d/19GLg4eIrs2CGFSofn4US5JpFnDWVZ4-8DhHGUnI4E7I/edit?usp=sharing"
+            >
+                Samuel Elliott<sup
+                    ><span class="text-xs scale-75 pl-0.5">
+                        <i
+                            class="fa-solid fa-arrow-up-right-from-square
+                    text-xs scale-[75%]"
+                        />
+                    </span></sup
+                >
+            </a>
+        </p>
     </div>
 </footer>
